@@ -1,2 +1,2 @@
-# html
-Repaso de todo lo aprendido en HTML 
+# Repositorio de Repasos :D
+
